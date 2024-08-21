@@ -1,0 +1,26 @@
+---menu----(main)
+cadastro
+sacar
+depositar
+verificar saldo
+alterar informacoes pessoais
+
+---cliente---
+atributos privados: nome captlize, e-mail, senha, cpf, num conta
+
+
+---banco---
+atributos privados
+private int float String
+classes:main, cliente,banco
+deposito, saldo, saque, num conta, agencia
+
+-- ETAPAS --
+definir os atributos
+fazer o construtor
+fazer os getters e setters
+pedir p/ usuario os dados p/ cadastro
+usar scanner para pegar os dados que o usuario escrever
+fechar o scanner né
+
+
